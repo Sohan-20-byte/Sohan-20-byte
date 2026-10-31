@@ -1,4 +1,3 @@
-![Software and Web Developer](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/873929227_1702948351258217_8786099639647956875_n.jpg?stp=dst-jpg_tt6&cstp=mx750x1000&ctp=s750x1000&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH8yTM0kxG41UxS-KO4xUg8Rd5loZGj_ihF3mWhkaP-KMbijcd7RDxZBTrtIXmG73p87U5QFaEydAnM5ESQqo4E&_nc_ohc=oG26aKgPwAgQ7kNvwEyL_jt&_nc_oc=Adqi3p_LMqEorSPTQkPaWQrkkY9ZsiYbjoGJSF_uD83T2RaRk_NAvMSyEsQS1-GL9gI&_nc_zt=23&_nc_ht=scontent.fdac138-1.fna&_nc_gid=yWfsDqzCYmEh5MZp6qaoVQ&_nc_ss=7b2a8&oh=00_AQS1xxMg1xUXTuwjvkanvWiYJB8dZsaAg_gJlu6vMrnCkQ&oe=6AEB9634)
 
 ### Hi there 👋, This is Jahidul Sohan
 #### Software and Web Developer
